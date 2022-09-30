@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #1e252d;
+		background-color: teal;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3862,7 +3862,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
+				border-color: #0e6076;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
